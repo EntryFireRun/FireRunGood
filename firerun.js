@@ -1,4 +1,4 @@
-fetch("https://playentry.org/graphql", {
+await fetch("https://playentry.org/graphql", {
   "headers": {
     "accept": "*/*",
     "accept-language": "ko",
